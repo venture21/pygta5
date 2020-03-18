@@ -1,6 +1,7 @@
 numpy
 pandas
-tensorflow
+tensorflow-gpu==1.14
 opencv-python
 pypiwin32
 tflearn
+pyautogui

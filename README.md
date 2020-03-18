@@ -1,8 +1,6 @@
-# Using Python programming to Play Grand Theft Auto 5
+# 파이썬을 활용하여 GTA5 플레이하기
 
-Explorations of Using Python to play Grand Theft Auto 5, mainly for the purposes of creating self-driving cars and other vehicles.
-
-We read frames directly from the desktop, rather than working with the game's code itself. This means it works with more games than just GTA V, and it will basically learn (well, attempt to learn...) whatever you put in front of it based on the frames as input and key presses as output.
+Python을 사용하여 GTA 5를 플레이하는 것에 대한 연구는 자율주행차 및 기타 차량을 만드는 것을 주 목적으로 한다. 우리는 게임 코드 자체로 작업하기 보다는 데스크탑에서 직접 프레임을 읽는다. 이것은 단지 GTA5만을 위한 작업 뿐만 아니라, 보다 더 많은 게임과 함께 작동하며 영상을 입력하고 키를 출력하는 방식의 프레임을 기반으로 하는 모든 것에 적용할 수 있다.
 
 Pull requests are welcomed.
 
